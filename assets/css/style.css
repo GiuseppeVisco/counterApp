@@ -1,6 +1,6 @@
 body {
-    background: rgb(102,230,231);
-background: radial-gradient(circle, rgba(102,230,231,1) 0%, rgba(8,59,62,1) 100%);
+    background: rgb(226, 16, 17);
+    background: radial-gradient(circle, rgba(226, 16, 17, 1) 0%, rgba(19, 1, 2, 1) 100%);
 }
 
 .text-container {
@@ -21,15 +21,15 @@ h1 {
     height: 70px;
     width: 150px;
     font-weight: 100px;
-    border:none;
+    border: none;
     border-radius: 10px;
     margin: 0 30px;
     font-size: 50px;
 }
 
-.btn-counter:hover{
+.btn-counter:hover {
     background-color: #000;
-    color:#fff;
+    color: #fff;
 }
 
 .btn-container {
