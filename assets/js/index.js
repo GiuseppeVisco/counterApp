@@ -1,4 +1,4 @@
-//Creazione delle sezioni della pagina
+//Creazione delle variabili contenenti le sezioni della pagina
 let textContainer = document.querySelector(".text-container")
 let btnContainer = document.querySelector(".btn-container")
 
