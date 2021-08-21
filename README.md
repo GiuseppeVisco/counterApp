@@ -12,7 +12,6 @@ This section should list any major frameworks that you built your project using.
 * [HTML](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-* 
 ## Usage
 
 Usare i tasti per aumentare o decrementare il counter.
@@ -25,4 +24,4 @@ Distrubuita tramite l' MIT license. Vedere "LICENSE.md" per maggiori informazion
 
 Giuseppe Visco - visco.giuseppe93@gmail.com
 
-Project Link: [https://github.com/GiuseppeVisco/counterApp]  (https://github.com/GiuseppeVisco/counterApp)
+Project Link: [https://github.com/GiuseppeVisco/counterApp] 
